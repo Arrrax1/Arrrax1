@@ -29,9 +29,9 @@ MERN-Stack Web Dev, focused more on Front-End Developmnet. I'm passionate about 
 &nbsp;&nbsp;<i>Everything here was made for fun</i>
 </br>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;⏩ <a href="r" target="_blank">Readme-api</a> a simple api to make badges and stats to customize your readme on github</br>
-&nbsp;&nbsp;&nbsp;&nbsp;⏩ <a href="r" target="_blank">Galaxy-Bird</a> Flappy-Bird-like game, you can either play or watch the AI learning to play by itself</br>
-&nbsp;&nbsp;&nbsp;&nbsp;⏩ <a href="r" target="_blank">Face-Attendance</a> Python Desktop app to mark attendance using Face Recognition, SignUp/SignIn and Logs </br>
+&nbsp;&nbsp;&nbsp;&nbsp;⏩ <a href="https://github.com/Arrrax1/readme-api" target="_blank">Readme-api</a> a simple api to make badges and stats to customize your readme on github</br>
+&nbsp;&nbsp;&nbsp;&nbsp;⏩ <a href="https://github.com/Arrrax1/galaxy-bird-ts" target="_blank">Galaxy-Bird</a> Flappy-Bird-like game, you can either play or watch the AI learning to play by itself</br>
+&nbsp;&nbsp;&nbsp;&nbsp;⏩ <a href="https://github.com/Arrrax1/FaceRec" target="_blank">Face-Attendance</a> Python Desktop app to mark attendance using Face Recognition, SignUp/SignIn and Logs </br>
 </p>
 
 ## Previous Work Experience :
@@ -44,16 +44,18 @@ WebDev Tutor at University Scientific Club
 Online WebDev Tutor
 
 ## Get in Touch :
+
 <p align="center">
-  
-[![IG](https://readmestats.onrender.com/badge?label=LinkedIn&info=YacineZerimi&main=0077B5&secondary=e5e5e5&style=flat)](https://www.linkedin.com/in/yacinezerimi) </br>
-[![IG](https://readmestats.onrender.com/badge?label=Instagram&info=yacinezerimi&main=D62976&secondary=eeeeee&style=flat)](https://www.instagram.com/yacinezerimi/) </br>
-[![IG](https://readmestats.onrender.com/badge?label=Facebook&info=yacine.zerimi.1&main=1E7CF2&secondary=F5F5F5&style=flat)](https://www.facebook.com/yacine.zerimi.1/) </br>
+  <a href="https://www.linkedin.com/in/yacinezerimi" target="_blank"><img src="https://readmestats.onrender.com/badge?label=LinkedIn&info=YacineZerimi&main=0077B5&secondary=e5e5e5&style=flat" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/yacinezerimi" target="_blank"><img src="https://readmestats.onrender.com/badge?label=Instagram&info=yacinezerimi&main=D62976&secondary=eeeeee&style=flat" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/yacine.zerimi.1" target="_blank"><img src="https://readmestats.onrender.com/badge?label=Facebook&info=yacine.zerimi.1&main=1E7CF2&secondary=F5F5F5&style=flat" /></a>
+</p>
+</br>
+</br>
+</br>
+<p align="center">
+ "Have the courage to follow your heart and intuition</br> &nbsp;they somehow already know what you truly want to become</br> &nbsp;everything else is secondary." </br></br>
+~Steve Jobs.
+
 
 </p>
-
-> </br>
-> "Have the courage to follow your heart and intuition</br> &nbsp;they somehow already know what you truly want to become</br> &nbsp;everything else is secondary." </br></br>
-> ~Steve Jobs.
-> &nbsp;</br>
-> &nbsp;</br>
