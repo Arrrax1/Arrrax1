@@ -1,8 +1,8 @@
 ## Hello there 🌌👋
 <!-- BIO Dark and Light Mode (refer to Arrrax1-dev)-->
 
-<img src="https://camo.githubusercontent.com/ef171cb13de76765fb1a64161e02fc32e323658a53f55ab6ae6b7dbf23fdd117/68747470733a2f2f726561646d6573746174732e6f6e72656e6465722e636f6d2f62696f3f6e616d653d596163696e655f5f5a6572696d6926736b696c6c733d46726f6e742d456e642d2d5765625f5f446576656c6f7065722d2d536f6674776172655f5f446576656c6f7065722d2d47796d5f5f456e7468757369617374266e69636b3d41727272617831267468656d653d6461726b2367682d6461726b2d6d6f64652d6f6e6c79#gh-dark-mode-only" width="100%" />
-<img src="https://camo.githubusercontent.com/b6e73a0baae6f9e7522f72a691481633635a18a4162ccd046f66101f8a00df1d/68747470733a2f2f726561646d6573746174732e6f6e72656e6465722e636f6d2f62696f3f6e616d653d596163696e655f5f5a6572696d6926736b696c6c733d46726f6e742d456e642d2d5765625f5f446576656c6f7065722d2d536f6674776172655f5f446576656c6f7065722d2d47796d5f5f456e7468757369617374266e69636b3d417272726178312367682d6c696768742d6d6f64652d6f6e6c79#gh-light-mode-only" width="100%" />
+<img src="https://camo.githubusercontent.com/6eba37ef5702c3e706290972b363c859d0a9933128b0982337df993f4642cfea/68747470733a2f2f726561646d6573746174732e6f6e72656e6465722e636f6d2f62696f3f6e616d653d596163696e655f5f5a6572696d6926736b696c6c733d46726f6e742d456e642d2d5765625f5f446576656c6f7065722d2d536f6674776172655f5f446576656c6f7065722d2d47796d5f5f456e7468757369617374266e69636b3d41726178#gh-light-mode-only" width="100%" />
+<img src="https://camo.githubusercontent.com/5efa999053f6978e3914d564d3bbd68daadcb00f7f9f2d9e14b230047f0bca1f/68747470733a2f2f726561646d6573746174732e6f6e72656e6465722e636f6d2f62696f3f7468656d653d6461726b266e616d653d596163696e655f5f5a6572696d6926736b696c6c733d46726f6e742d456e642d2d5765625f5f446576656c6f7065722d2d536f6674776172655f5f446576656c6f7065722d2d47796d5f5f456e7468757369617374266e69636b3d41726178#gh-dark-mode-only" width="100%" />
 
 ## More About Me :
 
@@ -31,7 +31,7 @@ MERN-Stack Web Dev, focused more on Front-End Developmnet. I'm passionate about 
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;⏩ <a href="https://github.com/Arrrax1/readme-api" target="_blank">Readme-api</a> a simple api to make badges and stats to customize your readme on github</br>
 &nbsp;&nbsp;&nbsp;&nbsp;⏩ <a href="https://github.com/Arrrax1/galaxy-bird-ts" target="_blank">Galaxy-Bird</a> Flappy-Bird-like game, you can either play or watch the AI learning to play by itself</br>
-&nbsp;&nbsp;&nbsp;&nbsp;⏩ <a href="https://github.com/Arrrax1/FaceRec" target="_blank">Face-Attendance</a> Python Desktop app to mark attendance using Face Recognition, SignUp/SignIn and Logs </br>
+&nbsp;&nbsp;&nbsp;&nbsp;⏩ <a href="https://github.com/Arrrax1/Python_Face_Recognition" target="_blank">Face-Attendance</a> Python Desktop app to mark attendance using Face Recognition, SignUp/SignIn and Logs </br>
 </p>
 
 ## Previous Work Experience :
