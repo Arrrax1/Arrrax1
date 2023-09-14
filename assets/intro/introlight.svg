@@ -1,0 +1,11 @@
+
+        <svg width="100%" height="60" xmlns="http://www.w3.org/2000/svg">
+            <text x="10" y="20" fill="#444" font-size="20px" font-family="Segoe UI">I'm 
+            <tspan fill="#1E90FF" font-weight="600">Yacine Zerimi</tspan>, my friends call me
+            <tspan font-weight="600" fill="violet">Arrrax1</tspan>.</text>
+            <text x="10" y="50" fill="#444" font-size="16px" font-family="Segoe UI">I'm a 
+            <tspan fill="violet" font-weight="600">Front-End</tspan>
+            <tspan fill="#1E90FF" font-weight="600">Web Developer</tspan>,
+            <tspan>Software Developer</tspan> and a Gym Enthusiast!</text>
+        </svg>
+    
