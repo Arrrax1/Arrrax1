@@ -1,4 +1,4 @@
-## Hello there 🌌👋
+## Hello there 🌌👋 my Name's Aymene Bouchekhou
 <!-- BIO Dark and Light Mode (refer to Arrrax1-dev)-->
 
 <!--
@@ -45,12 +45,13 @@ WebDev Tutor at University Scientific Club
 * 📍 2020-2022 :</br>
 Online WebDev Tutor
 
+<!--
 ## Get in Touch :
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yacinezerimi" target="_blank"><img src="https://raw.githubusercontent.com/Arrrax1/arrrax1/master/assets/contact/linkedin.svg" /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/yacinezerimi" target="_blank"><img src="https://raw.githubusercontent.com/Arrrax1/arrrax1/master/assets/contact/instagram.svg" /></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/yacine.zerimi.1" target="_blank"><img src="https://raw.githubusercontent.com/Arrrax1/arrrax1/master/assets/contact/facebook.svg" /></a>
+  <a href="https://www.facebook.com/yacine.zerimi.1" target="_blank"><img src="https://raw.githubusercontent.com/Arrrax1/arrrax1/master/assets/contact/facebook.svg" /></a> -->
 </p>
 </br>
 </br>
