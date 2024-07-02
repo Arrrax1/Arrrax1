@@ -1,8 +1,10 @@
 ## Hello there 🌌👋
 <!-- BIO Dark and Light Mode (refer to Arrrax1-dev)-->
 
+<!--
 <img src="https://raw.githubusercontent.com/Arrrax1/arrrax1/master/assets/intro/introlight.svg#gh-light-mode-only" width="100%" />
 <img src="https://raw.githubusercontent.com/Arrrax1/arrrax1/master/assets/intro/introdark.svg#gh-dark-mode-only" width="100%" />
+-->
 
 ## More About Me :
 
